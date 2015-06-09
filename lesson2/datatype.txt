@@ -1,0 +1,13 @@
+7.8   ............. number
+"888" ............. string
+7>11 .............. booleaN
+NaN ............... logical operator
+56000 * 34 ........ 
+
+Right or wrong variable names?
+year ................  correct
+*64 ..................  wrong
+%earn .................... wrong
+value ................... right
+salary ................... right
+do ....................... right
