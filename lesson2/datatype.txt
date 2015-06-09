@@ -1,8 +1,15 @@
+Data types in javascript
+
+arrays
+string
+number
+object
+
 7.8   ............. number
 "888" ............. string
 7>11 .............. booleaN
-NaN ............... logical operator
-56000 * 34 ........ 
+NaN ............... number
+56000 * 34 ........ number
 
 Right or wrong variable names?
 year ................  correct
